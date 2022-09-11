@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\Listok\TestEx\bin\Release\net6.0\TestEx.exe
+C:\Users\Денис\Desktop\Listok\TestEx\bin\Release\net6.0\TestEx.deps.json
+C:\Users\Денис\Desktop\Listok\TestEx\bin\Release\net6.0\TestEx.runtimeconfig.json
+C:\Users\Денис\Desktop\Listok\TestEx\bin\Release\net6.0\TestEx.dll
+C:\Users\Денис\Desktop\Listok\TestEx\bin\Release\net6.0\TestEx.pdb
+C:\Users\Денис\Desktop\Listok\TestEx\obj\Release\net6.0\TestEx.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Listok\TestEx\obj\Release\net6.0\TestEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Listok\TestEx\obj\Release\net6.0\TestEx.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Listok\TestEx\obj\Release\net6.0\TestEx.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Listok\TestEx\obj\Release\net6.0\TestEx.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Listok\TestEx\obj\Release\net6.0\TestEx.dll
+C:\Users\Денис\Desktop\Listok\TestEx\obj\Release\net6.0\refint\TestEx.dll
+C:\Users\Денис\Desktop\Listok\TestEx\obj\Release\net6.0\TestEx.pdb
+C:\Users\Денис\Desktop\Listok\TestEx\obj\Release\net6.0\TestEx.genruntimeconfig.cache
+C:\Users\Денис\Desktop\Listok\TestEx\obj\Release\net6.0\ref\TestEx.dll
